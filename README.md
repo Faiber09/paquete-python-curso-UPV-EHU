@@ -8,3 +8,6 @@ These functions enable working with datasets, including tasks such as normalizat
 # Content
 1. **datasetpack:** Contains all the folders and files, along with the source code for creating the package.
 2. **datasetpack-0.0.1.tar.gz:** Contains the distributable package ready to be installed in a Python environment.
+
+# Note:
+The setup.py and readme.txt files inside the datasetpack folder contain additional information about the package. 
