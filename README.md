@@ -1,5 +1,5 @@
 # paquete-python-curso-UPV-EHU
-Paquete distribuible de Python para el curso de Software Matematico y Estadistico de maestria de la UPV/EHU
+Distributable Python package, named "datasetpack", for the Master's course in Mathematical and Statistical Software at UPV/EHU
 
 # Description
 This package includes some basic functions developed during the course as exercises in the "Software matematico y estadistico" subject. 
